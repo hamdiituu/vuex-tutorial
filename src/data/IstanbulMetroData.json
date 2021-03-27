@@ -1,0 +1,746 @@
+[
+  {
+    "ID": 1,
+    "dc_Yil": "1990",
+    "dc_Hat_Adi": "İstiklal Caddesi Nostaljik Tramvayı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1,6 KM",
+    "dc_Sure": "5 dk"
+  },
+  {
+    "ID": 2,
+    "dc_Yil": "1993",
+    "dc_Hat_Adi": "Taksim - Maçka Teleferik Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "0,3 KM",
+    "dc_Sure": "3,5 dk"
+  },
+  {
+    "ID": 3,
+    "dc_Yil": "1996",
+    "dc_Hat_Adi": "Zeytinburnu - Eminönü Tramvay Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "11,2 KM",
+    "dc_Sure": "33,5 dk"
+  },
+  {
+    "ID": 4,
+    "dc_Yil": "2000",
+    "dc_Hat_Adi": "Taksim - 4. Levent Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "8,5 KM",
+    "dc_Sure": "13 dk"
+  },
+  {
+    "ID": 5,
+    "dc_Yil": "2002",
+    "dc_Hat_Adi": "Aksaray - Havalimanı Tramvay Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "20,3 KM",
+    "dc_Sure": "37,5 dk"
+  },
+  {
+    "ID": 6,
+    "dc_Yil": "2003",
+    "dc_Hat_Adi": "Kadıköy - Moda Nostaljik Tramvayı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "2,6 KM",
+    "dc_Sure": "20 dk"
+  },
+  {
+    "ID": 7,
+    "dc_Yil": "2005",
+    "dc_Hat_Adi": "Eminönü - Kabataş Tramvay Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "2,9 KM",
+    "dc_Sure": "9 dk"
+  },
+  {
+    "ID": 8,
+    "dc_Yil": "2005",
+    "dc_Hat_Adi": "Eyüp - Piyer Loti Teleferik Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "0,42 KM",
+    "dc_Sure": "3 dk"
+  },
+  {
+    "ID": 9,
+    "dc_Yil": "2006",
+    "dc_Hat_Adi": "Zeytinburnu - Bağcılar Tramvay Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "5,2 KM",
+    "dc_Sure": "15,5 dk"
+  },
+  {
+    "ID": 10,
+    "dc_Yil": "2006",
+    "dc_Hat_Adi": "Taksim - Kabataş Füniküler Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "0,64 KM",
+    "dc_Sure": "2,5  dk"
+  },
+  {
+    "ID": 11,
+    "dc_Yil": "2007",
+    "dc_Hat_Adi": "Edirnekapı - Sultançiftliği Habibler Tramvay Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "13,3 KM",
+    "dc_Sure": "40 dk"
+  },
+  {
+    "ID": 12,
+    "dc_Yil": "2009",
+    "dc_Hat_Adi": "Topkapı - Edirnekapı Tramvay Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "2 KM",
+    "dc_Sure": "6 dk"
+  },
+  {
+    "ID": 13,
+    "dc_Yil": "2009",
+    "dc_Hat_Adi": "Şişhane - Taksim Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1,65 KM",
+    "dc_Sure": "2,5 dk"
+  },
+  {
+    "ID": 14,
+    "dc_Yil": "2009",
+    "dc_Hat_Adi": "4. Levent - Sanayi - İTÜ Ayazağa Oto Sanayi Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "5,5 KM",
+    "dc_Sure": "8 dk"
+  },
+  {
+    "ID": 15,
+    "dc_Yil": "2010",
+    "dc_Hat_Adi": "Atatürk Oto Sanayi - Darüşşafaka Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1,27 KM",
+    "dc_Sure": "2 dk"
+  },
+  {
+    "ID": 16,
+    "dc_Yil": "2010",
+    "dc_Hat_Adi": "Sanayi - Seyrantepe Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1,67 KM",
+    "dc_Sure": "2,5 dk"
+  },
+  {
+    "ID": 17,
+    "dc_Yil": "2011",
+    "dc_Hat_Adi": "Darüşşafaka - HacıOsman Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1,35 KM",
+    "dc_Sure": "2 dk"
+  },
+  {
+    "ID": 18,
+    "dc_Yil": "2012",
+    "dc_Hat_Adi": "Kadıköy - Kartal Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "21,7 KM",
+    "dc_Sure": "32 dk"
+  },
+  {
+    "ID": 19,
+    "dc_Yil": "2013",
+    "dc_Hat_Adi": "Otogar - Bağcılar Kirazlı - Başakşehir - Olimpiyatköy Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "21,7 KM",
+    "dc_Sure": "30 dk"
+  },
+  {
+    "ID": 20,
+    "dc_Yil": "2013",
+    "dc_Hat_Adi": "Marmaray (Tüp Geçişi)",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "13,5 KM",
+    "dc_Sure": "20 dk"
+  },
+  {
+    "ID": 21,
+    "dc_Yil": "2013",
+    "dc_Hat_Adi": "Yenikapı - Haliç Metro Geçiş Köprüsü - Şişhane Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "3,55 KM",
+    "dc_Sure": "5,5 dk"
+  },
+  {
+    "ID": 22,
+    "dc_Yil": "2014",
+    "dc_Hat_Adi": "Yenikapı - Aksaray Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "0,7 KM",
+    "dc_Sure": "1 dk"
+  },
+  {
+    "ID": 23,
+    "dc_Yil": "2015",
+    "dc_Hat_Adi": "Levent - Rumeli Hisarüstü Metro Hattı",
+    "dc_Guzergah": "Levent • Uygulama Oteli • Etiler • Rumeli Hisarüstü",
+    "dc_Uzunluk": "3,3 KM",
+    "dc_Sure": "6 dk"
+  },
+  {
+    "ID": 24,
+    "dc_Yil": "2016",
+    "dc_Hat_Adi": "Üsküdar - Ümraniye - Çekmeköy - Sancaktepe Metro Hattı",
+    "dc_Guzergah": "Üsküdar • Fıstıkağacı • Bağlarbaşı • Altunizade • Kısıklı • Bulgurlu • Ümraniye • Çarşı • Yamanevler • Çakmak • Ihlamurkuyu • Altınşehir • İmam Hatip Lisesi • Dudullu • Necip Fazıl • Çekmeköy/Sancaktepe",
+    "dc_Uzunluk": "20 KM",
+    "dc_Sure": "26 dk"
+  },
+  {
+    "ID": 25,
+    "dc_Yil": "2016",
+    "dc_Hat_Adi": "Kartal - Kaynarca Metro Hattı",
+    "dc_Guzergah": "Yakacık • Pendik • Kaynarca",
+    "dc_Uzunluk": "4,5 KM",
+    "dc_Sure": "8 dk"
+  },
+  {
+    "ID": 26,
+    "dc_Yil": "2016",
+    "dc_Hat_Adi": "Halkalı Gebze Marmaray Yüzeysel Metrosu",
+    "dc_Guzergah": "Halkalı • Mustafa Kemal • Küçükçekmece • Florya • Yeşilköy • Yeşilyurt • Ataköy • Bakırköy • Yenimahalle • Zeytinburnu • Feneryolu • Göztepe • Erenköy • Suadiye • Bostancı • Küçükyalı • İdealtepe • Süreyya Plajı • Maltepe • Cevizli • Atalar • Başak • Kart",
+    "dc_Uzunluk": "63,5 KM",
+    "dc_Sure": "115 dk"
+  },
+  {
+    "ID": 27,
+    "dc_Yil": "2016",
+    "dc_Hat_Adi": "Mecidiyeköy - Zincirlikuyu - Altunizade - Çamlıca Teleferik Hattı",
+    "dc_Guzergah": "Mecidiyeköy • Zincirlikuyu • Altunizade • K.Çamlıca • B.Çamlıca • Cami",
+    "dc_Uzunluk": "10 KM",
+    "dc_Sure": "22 dk"
+  },
+  {
+    "ID": 28,
+    "dc_Yil": "2017",
+    "dc_Hat_Adi": "Başakşehir - Kayaşehir - Olimpiyat Tramvay Hattı",
+    "dc_Guzergah": "Metrokent • Oyakkent • Fenertepe • 17. Bölge • 5. Bölge • Kayaşehir Merkez • Tekstil Blokları • Güvercintepe • Olimpiyat",
+    "dc_Uzunluk": "16,80 KM",
+    "dc_Sure": "45 dk"
+  },
+  {
+    "ID": 29,
+    "dc_Yil": "2017",
+    "dc_Hat_Adi": "Mecidiyeköy - Kağıthane - Alibeyköy - Mahmutbey Metro Hattı",
+    "dc_Guzergah": "Mahmutbey • Göztepe • 100 Yıl  • Tekstilkent • Karadeniz Mah. • Yeni Mahalle • Kazım Karabekir • Akşemsettin • Veysel Karani • Yeşilpınar • Alibeyköy • Nurtepe • Kağıthane • Çağlayan • Mecidiyeköy",
+    "dc_Uzunluk": "17,5 KM",
+    "dc_Sure": "27 dk"
+  },
+  {
+    "ID": 30,
+    "dc_Yil": "2018",
+    "dc_Hat_Adi": "Bakırköy İDO - Bağcılar Kirazlı Metro Hattı",
+    "dc_Guzergah": "Bakırköy İDO • Özgürlük Meydanı • Zuhuratbaba • İncirli • Haznedar • İlkyuva • Yıldıztepe • Molla Gürani • Kirazlı",
+    "dc_Uzunluk": "9 KM",
+    "dc_Sure": "13,5 dk"
+  },
+  {
+    "ID": 31,
+    "dc_Yil": "2018",
+    "dc_Hat_Adi": "Sabiha Gökçen Havalimanı - Kaynarca Metro Hattı",
+    "dc_Guzergah": "Kaynarca • Hastane • Şeyhli • Sanayi • Sabiha Gökçen Havalimanı",
+    "dc_Uzunluk": "7,4 KM",
+    "dc_Sure": "13,5 dk"
+  },
+  {
+    "ID": 32,
+    "dc_Yil": "2018",
+    "dc_Hat_Adi": "Yenikapı - İncirli Metro Hattı",
+    "dc_Guzergah": "Yenikapı • Kocamustafapaşa • Silivrikapı • Zeytinburnu • Osmaniye • İncirli",
+    "dc_Uzunluk": "7 KM",
+    "dc_Sure": "10,5 dk"
+  },
+  {
+    "ID": 33,
+    "dc_Yil": "2018",
+    "dc_Hat_Adi": "Başakşehir - Kayaşehir Metro Hattı",
+    "dc_Guzergah": "Metrokent • Onurkent • Sağlık Kent • Kayaşehir Merkez",
+    "dc_Uzunluk": "6,65 KM",
+    "dc_Sure": "10 dk"
+  },
+  {
+    "ID": 34,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Bakırköy - Bahçelievler - Küçükçekmece - Avcılar - Beylikdüzü - Esenyurt Metro Hattı",
+    "dc_Guzergah": "İncirli • Adnan Kahveci • Siyavuşpaşa • Zafer • Çobançeşme • Sefaköy • Cennet • Küçükçekmece • Avcılar Park • Reşitpaşa • Avcılar • Cihangir • Ambarlı • Haramidere • Yakuplu • Beylikdüzü/Esenyurt • Beylikdüzü Toplu Konutlar • Büyükçekmece Tüyap",
+    "dc_Uzunluk": "25 KM",
+    "dc_Sure": "37,5 dk"
+  },
+  {
+    "ID": 35,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Kabataş - Beşiktaş - Mecidiyeköy Metro Hattı",
+    "dc_Guzergah": "Kabataş • Beşiktaş • Darphane",
+    "dc_Uzunluk": "7 KM",
+    "dc_Sure": "9 dk"
+  },
+  {
+    "ID": 36,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Bağcılar(Kirazlı) - Küçükçekmece(Halkalı) Metro Hattı",
+    "dc_Guzergah": "Bağcılar (Kirazlı) • Barbaros • Malazgirt • Mimar Sinan Caddesi • Fatih • Halkalı Merkez • Hastane • Toplu Konut • Yarımburgaz • Halkalı",
+    "dc_Uzunluk": "9,67 KM",
+    "dc_Sure": "19 dk"
+  },
+  {
+    "ID": 37,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Mahmutbey - Halkalı - Bahçeşehir Metro Hattı",
+    "dc_Guzergah": "Mahmutbey • Bölge Parkı • Mehmet Akif •  Halkalı/Atakent Toplu Konut • Tema •  Hastane • Tahtakale • Ispartakule  • Bahçeşehir • Esenkent",
+    "dc_Uzunluk": "16,75 KM",
+    "dc_Sure": "25 dk"
+  },
+  {
+    "ID": 38,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Halkalı - Arnavutköy - 3. Havalimanı Raylı Sistem Hattı",
+    "dc_Guzergah": "Halkalı • Halkalı Toplu Konut • Tema • Olimpiyat • Kayaşehir Merkez • Taşoluk • Arnavutköy Merkez • 3. Havalimanı",
+    "dc_Uzunluk": "33 KM",
+    "dc_Sure": "33 dk"
+  },
+  {
+    "ID": 39,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Kaynarca - Tuzla Tersane Metro Hattı",
+    "dc_Guzergah": "Kaynarca • Kaynarca Merkez • Tersane",
+    "dc_Uzunluk": "7,8 KM",
+    "dc_Sure": "12 dk"
+  },
+  {
+    "ID": 40,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Çekmeköy - Taşdelen Metro Hattı",
+    "dc_Guzergah": "Sarıgazi  • Aydınlar  • Taşdelen",
+    "dc_Uzunluk": "5,7 KM",
+    "dc_Sure": "8,5 dk"
+  },
+  {
+    "ID": 41,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Kaynarca Merkez - Pendik Metro Hattı",
+    "dc_Guzergah": "Kaynarca Merkez • Pendik",
+    "dc_Uzunluk": "3,2 KM",
+    "dc_Sure": "5 dk"
+  },
+  {
+    "ID": 42,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Dudullu - Kayışdağı - İçerenköy - Bostancı Metro Hattı",
+    "dc_Guzergah": "Yukarı Dudullu • Dudullu • Modoko • İMES • Türkiş Blokları • Kayışdağı • İçerenköy • Küçükbakkalköy • Kozyatağı • Üst Bostancı • Suadiye • Bostancı İDO",
+    "dc_Uzunluk": "14,27 KM",
+    "dc_Sure": "28,5 dk"
+  },
+  {
+    "ID": 43,
+    "dc_Yil": "2019",
+    "dc_Hat_Adi": "Çekmeköy - Sancaktepe - Sultanbeyli Raylı Sistem Hattı",
+    "dc_Guzergah": "Çekmeköy - Meclis Mah. • Sarıgazi • Samandıra • Abdurrahmangazi • Sancaktepe • Veysel Karani • Hasanpaşa • Sultanbeyli Merkez",
+    "dc_Uzunluk": "10,9 KM",
+    "dc_Sure": "16,5 dk"
+  },
+  {
+    "ID": 44,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Ataköy - Basın Ekspres - İkitelli Metro Hattı",
+    "dc_Guzergah": "Ataköy • Yenibosna • Çobançeşme • Kuyumcukent • Doğu Sanayi • Mimar Sinan Caddesi • Evren Mahallesi • İkitelli Kavşağı • Mehmet Akif • Bahariye • Masko • İkitelli Sanayi",
+    "dc_Uzunluk": "13 KM",
+    "dc_Sure": "26 dk"
+  },
+  {
+    "ID": 45,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Eyüp - Piyer Loti - MiniaTürk Teleferik Hattı",
+    "dc_Guzergah": "Eyüp • Piyer Loti • Miniatürk",
+    "dc_Uzunluk": "2 KM",
+    "dc_Sure": "6,5 dk"
+  },
+  {
+    "ID": 46,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Alibeyköy - Eyüp – Bayrampaşa – Eminönü Raylı Sistem Hattı",
+    "dc_Guzergah": "Eminönü • Haliç • Cibali • Fener • Balat • Feshane • Eyüp Teleferik • Devlet Hastanesi • Silahtarağa Mah. • Sakarya Mah. • Alibeyköy Merkez • Alibeyköy Metro • Cep Otagarı • Eyüp • Belediye • Demirkapı • Bayrampaşa • Meydan",
+    "dc_Uzunluk": "12 KM",
+    "dc_Sure": "30 dk"
+  },
+  {
+    "ID": 47,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Edirnekapı - Vezneciler Tramvay Hattı",
+    "dc_Guzergah": "Edirnekapı • Vezneciler",
+    "dc_Uzunluk": "3,5 KM",
+    "dc_Sure": "10,5 dk"
+  },
+  {
+    "ID": 48,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sultanbeyli - Kurtköy (Viaport) Raylı Sistem Hattı",
+    "dc_Guzergah": "Sultanbeyli Merkez • Gölet • Akşemsettin • Fuar Alanı • Kurtköy",
+    "dc_Uzunluk": "5,5 KM",
+    "dc_Sure": "8,5 dk"
+  },
+  {
+    "ID": 49,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Göztepe - Ataşehir - Ümraniye Metro Hattı",
+    "dc_Guzergah": "Göztepe Parkı • Göztepe • S Cedit  • Yenisahra • Ataşehir • Finanskent • Soyak •Atakent • Ümraniye • Hastane • Kazım Karabekir",
+    "dc_Uzunluk": "13,03 KM",
+    "dc_Sure": "26 dk"
+  },
+  {
+    "ID": 50,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sultangazi - Arnavutköy Raylı Sistem Hattı",
+    "dc_Guzergah": "Sultangazi • Habibler  • Eski Habibler  • Esenbahçe • Sincanlar • Fenertepe Yolu • Kayabaşı Yolu • Devlet Hastanesi • Arnavutköy",
+    "dc_Uzunluk": "15 KM",
+    "dc_Sure": "22,5 dk"
+  },
+  {
+    "ID": 51,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Vezneciler - Sultangazi Metro Hattı",
+    "dc_Guzergah": "Vezneciler • Hırkai Şerif  • Karagümrük  • Ayvansaray • Nişancı • Rami • Gaziosmanpaşa • Küçükköy • Şemsi Paşa • Yenimahalle • Ahmet Yesevi • Uğur Mumcu • Cebeci • Sultangazi",
+    "dc_Uzunluk": "17 KM",
+    "dc_Sure": "25,5 dk"
+  },
+  {
+    "ID": 52,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Miniatürk - Alibeyköy - Vialand Teleferik Hattı",
+    "dc_Guzergah": "Miniatürk • Alibeyköy  • İstanbul Cad.  • Vialand",
+    "dc_Uzunluk": "3,5 KM",
+    "dc_Sure": "4 dk"
+  },
+  {
+    "ID": 53,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Gayrettepe - Kemerburgaz - 3. Havalimanı Raylı Sistem Hattı",
+    "dc_Guzergah": "Gayrettepe • Hasdal • Kemerburgaz/Göktürk • Işıklar • 3. Havalimanı",
+    "dc_Uzunluk": "32 KM",
+    "dc_Sure": "32 dk"
+  },
+  {
+    "ID": 54,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Başakşehir - Halkalı - Sefaköy Havaray Hattı",
+    "dc_Guzergah": "Sefaköy • Armoni Park • Borusan • Sanayi • Gümrük Yolu • Halkalı Merkez • Toki1 • Toki2 • Arena Park • İETT Depo • Masko • Ziya Gökalp • Atatürk Oto Sanayi1 • Atatürk Oto Sanayi2 • Başakşehir",
+    "dc_Uzunluk": "11,6 KM",
+    "dc_Sure": "34 dk"
+  },
+  {
+    "ID": 55,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Şişhane - Kabataş Raylı Sistem Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1,7 KM",
+    "dc_Sure": "2,5 dk"
+  },
+  {
+    "ID": 56,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Libadiye Caddesi Havaray Hattı",
+    "dc_Guzergah": "Hasanpaşa • Ziverbey • Göztepe SGK hst • Göztepe SGK Poliklinikler • Göztepe Kavşağı • Soyak • Ünalan Mah. • DSİ • Libadiye • Bulgurlu",
+    "dc_Uzunluk": "7 KM",
+    "dc_Sure": "21 dk"
+  },
+  {
+    "ID": 57,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "İncirli - Edirnekapı - Gayrettepe -Söğütlüçeşme Metro Hattı",
+    "dc_Guzergah": "Söğütlüçeşme • Ünalan • Altunizade • Gayrettepe (Zincirlikuyu) • Mecidiyeköy • Çağlayan • Perpa • Sütlüce • Edirnekapı • Vatan • Cevizlibağ • Zeytinburnu • İncirli",
+    "dc_Uzunluk": "28 KM",
+    "dc_Sure": "42 dk"
+  },
+  {
+    "ID": 58,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Rumeli Hisarüstü - Aşiyan Sahil Teleferik Hattı",
+    "dc_Guzergah": "Rumeli Hisarüstü • Aşiyan Sahil",
+    "dc_Uzunluk": "1 KM",
+    "dc_Sure": "4 dk"
+  },
+  {
+    "ID": 59,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Beykoz Teleferik Hattı",
+    "dc_Guzergah": "Yuşa Tepesi • Beykoz Çayırı",
+    "dc_Uzunluk": "2,5 KM",
+    "dc_Sure": "10 dk"
+  },
+  {
+    "ID": 60,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sultaniye - Karlıtepe Teleferik Hattı",
+    "dc_Guzergah": "Sultaniye • Karlıtepe",
+    "dc_Uzunluk": "1,5 KM",
+    "dc_Sure": "5 dk"
+  },
+  {
+    "ID": 61,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Halkalı - Bahçeşehir - Çatalca Raylı Sistem Hattı",
+    "dc_Guzergah": "Halkalı • Bahçeşehir • Hadımköy • Çatalca",
+    "dc_Uzunluk": "33 KM",
+    "dc_Sure": "33 dk"
+  },
+  {
+    "ID": 62,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Şirinevler - Mahmutbey(Tavukçu Deresi) Tramvay Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "7,8 KM",
+    "dc_Sure": "12 dk"
+  },
+  {
+    "ID": 63,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Beyoğlu - Şişli Havaray Hattı",
+    "dc_Guzergah": "Şişhane • Kulaksız • Kaptanpaşa • Fetihtepe • Talatpaşa • Gürsel • Çağlayan • Mecidiyeköy",
+    "dc_Uzunluk": "5,8 KM",
+    "dc_Sure": "12 dk"
+  },
+  {
+    "ID": 64,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Seyrantepe - Kağıthane - Alibeyköy Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "6 KM",
+    "dc_Sure": "9 dk"
+  },
+  {
+    "ID": 65,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Dekovil Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "62 KM",
+    "dc_Sure": "dk"
+  },
+  {
+    "ID": 66,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Kurtköy - Sabiha Gökçen Havalimanı Metro Hattı",
+    "dc_Guzergah": "Kurtköy • Yenişehir • Teknopark • Sabiha Gökçen",
+    "dc_Uzunluk": "5,5 KM",
+    "dc_Sure": "10 dk"
+  },
+  {
+    "ID": 67,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Kadıköy - Ataşehir - Sancaktepe - Sultanbeyli Metro Hattı",
+    "dc_Guzergah": "Kadıköy • Uzunçayır • Esatpaşa  • Finanskent • Atatürk Mah. • Ataşehir • Türkiş Blokları • Mimar Sinan • Ferhatpaşa • Bakkalköy Cad. • Samandıra • Veysel Karani • Sultanbeyli Merkez",
+    "dc_Uzunluk": "17 KM",
+    "dc_Sure": "25,5 dk"
+  },
+  {
+    "ID": 68,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sarıgazi - Türkiş Blokları Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "6,5 KM",
+    "dc_Sure": "10 dk"
+  },
+  {
+    "ID": 69,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Ataşehir - Ümraniye Havaray Hattı",
+    "dc_Guzergah": "Ümraniye Hastane • İnkılap Mahallesi • Akdeniz Caddesi • Armağanevler • Batı Ataşehir • Doğu Ataşehir • Bakkalköy • Kozyatağı",
+    "dc_Uzunluk": "11,1 KM",
+    "dc_Sure": "22 dk"
+  },
+  {
+    "ID": 70,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Esenyurt - Avcılar - Beylikdüzü Raylı Sistem Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "27,5 KM",
+    "dc_Sure": "56 dk"
+  },
+  {
+    "ID": 71,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Büyükçekmece(TÜYAP) - Silivri Raylı Sistem Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "32,5 KM",
+    "dc_Sure": "49 dk"
+  },
+  {
+    "ID": 72,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Hacıosman - Çayırbaşı Metro Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "2,7 KM",
+    "dc_Sure": "4 dk"
+  },
+  {
+    "ID": 73,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Beşiktaş - Sarıyer Raylı Sistem Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "14,6 KM",
+    "dc_Sure": "30 dk"
+  },
+  {
+    "ID": 74,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sabiha Gökçen Havalimanı - Tuzla(O.S.B.) Raylı Sistem Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "6,8 KM",
+    "dc_Sure": "14 dk"
+  },
+  {
+    "ID": 75,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Üsküdar - Beykoz Raylı Sistem Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "15 KM",
+    "dc_Sure": "30 dk"
+  },
+  {
+    "ID": 76,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Vialand - Rami Teleferik Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "2,5 KM",
+    "dc_Sure": "4 dk"
+  },
+  {
+    "ID": 77,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Ayazağa - İTÜ - İstinye Metro Hattı",
+    "dc_Guzergah": "Ayazağa • İTÜ • İstinye",
+    "dc_Uzunluk": "7 KM",
+    "dc_Sure": "14 dk"
+  },
+  {
+    "ID": 78,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "4. Levent - Gültepe - Çeliktepe - Levent Havaray Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "5,5 KM",
+    "dc_Sure": "16 dk"
+  },
+  {
+    "ID": 79,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sefaköy - Kuyumcukent - Havalimanı Havaray Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "7,2 KM",
+    "dc_Sure": "14,5 dk"
+  },
+  {
+    "ID": 80,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Avcılar Sahil - İstanbul Üniversitesi Füniküler Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1,6 KM",
+    "dc_Sure": "2,5 dk"
+  },
+  {
+    "ID": 81,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Büyükçekmece Sahil - Tüyap Teleferik Hattı",
+    "dc_Guzergah": "Sahil • Tüyap",
+    "dc_Uzunluk": "2,5 KM",
+    "dc_Sure": "8 dk"
+  },
+  {
+    "ID": 82,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sultanbeyli Teleferik Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "3 KM",
+    "dc_Sure": "10 dk"
+  },
+  {
+    "ID": 83,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Çamlıca Füniküler Hattı",
+    "dc_Guzergah": "Çamlıca • Kısıklı",
+    "dc_Uzunluk": "2 KM",
+    "dc_Sure": "3 dk"
+  },
+  {
+    "ID": 84,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Kartal - D 100 Havaray Hattı",
+    "dc_Guzergah": "Gümüşpınar • Orta • Kartal • Yunus • Karlıtepe • Kordonboyu",
+    "dc_Uzunluk": "3 KM",
+    "dc_Sure": "6 dk"
+  },
+  {
+    "ID": 85,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Sabiha Gökçen Havaalanı - Formula Havaray Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "7,7 KM",
+    "dc_Sure": "15,5 dk"
+  },
+  {
+    "ID": 86,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Maltepe - Başıbüyük Havaray Hattı",
+    "dc_Guzergah": "Sahil • İdealtepe • Altayçeşme • Aydınlıkevler • Başıbüyük • İnönü • Toplukent • Girne",
+    "dc_Uzunluk": "9 KM",
+    "dc_Sure": "18 dk"
+  },
+  {
+    "ID": 87,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Kadıköy-Maltepe-Kartal Havaray Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "18 KM",
+    "dc_Sure": "54 dk"
+  },
+  {
+    "ID": 88,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Adalar - Büyük Ada – Ayayorgi - Lunapark Teleferik Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "1 KM",
+    "dc_Sure": "4 dk"
+  },
+  {
+    "ID": 89,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Kınalıada Teleferik Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "0,5 KM",
+    "dc_Sure": "2 dk"
+  },
+  {
+    "ID": 90,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Kayışdağı Teleferik Hattı",
+    "dc_Guzergah": "Yedpa • Kayışdağı",
+    "dc_Uzunluk": "2,1 KM",
+    "dc_Sure": "4 dk"
+  },
+  {
+    "ID": 91,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "D100 - Yakacık - Aydos Teleferik Hattı",
+    "dc_Guzergah": "D-100 • Yakacık • Aydos",
+    "dc_Uzunluk": "3 KM",
+    "dc_Sure": "10 dk"
+  },
+  {
+    "ID": 92,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Tuzla Havaray Hattı",
+    "dc_Guzergah": "",
+    "dc_Uzunluk": "5 KM",
+    "dc_Sure": "15 dk"
+  },
+  {
+    "ID": 93,
+    "dc_Yil": "",
+    "dc_Hat_Adi": "Zeytinburnu - Kadıköy Metro Hattı",
+    "dc_Guzergah": "Kadıköy • Üniversite • Merdivenköy • Göztepe • Esatpaşa • Namık Kemal • Çarşı • Bosna Bulvarı •  Ata2 • Rasathane • 4.Levent • Çeliktepe • Kağıthane • Sadabad • Silahtar  • Gaziosmanpaşa • Uluyol • Sağmalcılar • Bayrampaşa • Topkapı • Ambarlar • Kazlıçeşm",
+    "dc_Uzunluk": "40,3 KM",
+    "dc_Sure": "60 dk"
+  }
+]
